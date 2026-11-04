@@ -1,0 +1,19 @@
+{
+  "format": "sound-pack",
+  "version": 1,
+  "id": "cool-skeleton-keyboard",
+  "name": "Cool Skeleton Keyboard",
+  "author": "Sabahodin Sharaf",
+  "press": ["sounds/shoot.wav"],
+  "roles": {
+    "space": {
+      "press": ["sounds/shoot.wav"]
+    },
+    "enter": {
+      "press": ["sounds/explosion.wav"]
+    },
+    "modifier": {
+      "press": ["sounds/reload.wav"]
+    }
+  }
+}
